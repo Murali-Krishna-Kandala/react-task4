@@ -278,3 +278,186 @@
   line-height: 1.8rem;
   text-align: justify;
 }
+
+.embedded {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.em-top {
+  background-color: #fff;
+  height: 400px;
+}
+.em-bottom {
+  background-color: rgb(255, 208, 0);
+  height: 300px;
+}
+
+.labuild {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 100px;
+  height: 250px;
+  width: 250px;
+}
+.ygirl {
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  border: 15px solid #fff;
+  margin-top: 300px;
+  margin-left: 200px;
+  z-index: 1;
+}
+
+.crparcopn {
+  position: absolute;
+  height: 400px;
+  width: 800px;
+  margin-top: 50px;
+  margin-left: 450px;
+}
+
+.emarch {
+  background-color: #fff;
+  width: 30%;
+  height: 450px;
+  padding: 20px;
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 550px;
+  line-height: 2rem;
+}
+
+.emarch h2 {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.success {
+  /* background-color: aquamarine; */
+  height: 800px;
+}
+.y-beam {
+  height: 200px;
+  width: 500px;
+  background-color: rgb(255, 208, 0);
+  position: absolute;
+  margin-top: 250px;
+}
+
+.smilimg {
+  position: absolute;
+  height: 400px;
+  width: 350px;
+  border-radius: 5%;
+  margin-top: 180px;
+  margin-left: 280px;
+}
+
+.y-beam-info {
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  margin-top: 200px;
+  margin-left: 650px;
+}
+
+.y-beam-info h2 {
+  font-size: 40px;
+  font-weight: bolder;
+}
+.quote {
+  position: absolute;
+  background-color: rgb(20, 23, 72);
+  color: #fff;
+  height: 350px;
+  width: 300px;
+  border-radius: 5%;
+  margin-top: 400px;
+  margin-left: 120px;
+}
+.quote h1 {
+  font-size: 100px;
+}
+
+.quotation {
+  padding: 0 20px;
+  font-size: 21px;
+  line-height: 1.5;
+  letter-spacing: 0.12rem;
+}
+.author {
+  text-align: end;
+  font-size: 20px;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.service {
+  display: flex;
+  height: 1200px;
+}
+.ser-left {
+  background-color: rgb(255, 208, 0);
+  width: 50%;
+}
+
+.ser-right {
+  width: 50%;
+}
+
+.crparcopn1 {
+  position: absolute;
+  height: 400px;
+  width: 600px;
+  margin-top: 50px;
+  margin-left: 540px;
+  border-radius: 5%;
+}
+.conference {
+  position: absolute;
+  height: 300px;
+  width: 400px;
+  margin-top: 320px;
+  margin-left: 350px;
+  border-radius: 5%;
+}
+
+.labuild1 {
+  position: absolute;
+  margin-top: 530px;
+  margin-left: 890px;
+  height: 200px;
+  width: 250px;
+  border-radius: 5%;
+}
+.wwd {
+  position: absolute;
+  background-color: #fff;
+  padding: 0 30px;
+  height: 450px;
+  width: 400px;
+  border-radius: 5%;
+  margin-top: 700px;
+  margin-left: 350px;
+}
+
+.wwd h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.wwd h2 {
+  font-size: 36px;
+}
+.signup {
+  height: 1000px;
+}
+
+.consplan {
+  width: 100%;
+  height: 600px;
+}
