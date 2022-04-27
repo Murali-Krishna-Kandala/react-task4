@@ -9,6 +9,7 @@ import Embedded from "./components/Embedded";
 import Success from "./components/Success";
 import Serivce from "./components/Service";
 import Signup from "./components/Singup";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Success />
       <Serivce />
       <Signup />
+      <Footer />
     </div>
   );
 }
